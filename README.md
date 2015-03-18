@@ -1,2 +1,2 @@
 # Learn-GitHub
-Learn Github WITH THE first cHANGES
+Learn GitHub with the first changes
